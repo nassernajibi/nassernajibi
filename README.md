@@ -1,16 +1,25 @@
-### Hi there 👋
+# Welcome ~
+(short bio)
 
-<!--
-**nassernajibi/nassernajibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nasser!
 
-Here are some ideas to get you started:
+I'm currently posdtodoctoral fellow in the [Department of Biological and Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://www.cornell.edu/) working under the mentorship of Prof. Scott Steinschneider.
+I work towards advancing our understanding of water systems through integrating physical processes and statistical computations for analyzing and modeling complex hydroclimate processes in a changing environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I received my Ph.D. and M.Phil. degrees in Civil and Environmental Engineering from the Department of Civil Engineering of [Grove School of Engineering](https://www.ccny.cuny.edu/engineering) at [The City College of New York](https://www.ccny.cuny.edu/) of [The City University of New York](https://www.cuny.edu/) (New York, NY) under the supervision of Prof. Naresh Devineni in 2019 and 2017, respectively.
+
+In general, I employ a combination of knowledge in physical processes, statistical models, computational statistics, and data-driven learning tools to advance our understanding of water systems and hydroclimatic extremes, in particular, under changing hydroclimate and anthropogenic forcings.
+
+## Online Profiles 🌎
+
+You can also find me on the internet:
+
+* [Website](https://nassernajibi.com/)
+* [Google Scholar](https://scholar.google.com/citations?user=0WHw-1MAAAAJ&hl=en)
+* [GitHub](https://github.com/nassernajibi)
+* [LinkedIn](https://www.linkedin.com/in/nassernajibi/)
+* [ORCiD](https://orcid.org/0000-0002-0515-7192)
+* [ResearchGate](https://www.researchgate.net/profile/Nasser-Najibi)
+* [Twitter](https://twitter.com/NasserNajibi)
+
+#### 📫 How to reach me: The best way to contact me is through [email](mailto:nn289@cornell.edu).
