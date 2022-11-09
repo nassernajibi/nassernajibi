@@ -2,7 +2,7 @@
 
 ## Hi, I'm Nasser!
 
-I'm currently posdtodoctoral fellow in the [Department of Biological and Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://www.cornell.edu/) working under the mentorship of Prof. Scott Steinschneider.
+I'm currently a postdoctoral fellow in the [Department of Biological and Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://www.cornell.edu/) working under the mentorship of Prof. Scott Steinschneider.
 I work towards advancing our understanding of water systems through integrating physical processes and statistical computations for analyzing and modeling complex hydroclimate processes in a changing environment.
 
 I received my Ph.D. and M.Phil. degrees in Civil and Environmental Engineering from the Department of Civil Engineering of [Grove School of Engineering](https://www.ccny.cuny.edu/engineering) at [The City College of New York](https://www.ccny.cuny.edu/) of [The City University of New York](https://www.cuny.edu/) (New York, NY) under the supervision of Prof. Naresh Devineni in 2019 and 2017, respectively.
