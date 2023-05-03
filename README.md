@@ -1,5 +1,5 @@
 # Welcome ~
-![](https://komarev.com/ghpvc/?username=nassernajibi)
+![](https://komarev.com/ghpvc/?username=nassernajibi&color=green)
 ## Hi, I'm Nasser!
 
 I'm currently a postdoctoral fellow in the [Department of Biological and Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://www.cornell.edu/).
