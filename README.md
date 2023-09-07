@@ -21,6 +21,6 @@ You can find me on the internet:
 * [LinkedIn](https://www.linkedin.com/in/nassernajibi/)
 * [ORCiD](https://orcid.org/0000-0002-0515-7192)
 * [ResearchGate](https://www.researchgate.net/profile/Nasser-Najibi)
-* [Twitter](https://twitter.com/NasserNajibi)
+* [X](https://twitter.com/NasserNajibi)
 
 #### 📫 How to reach me: The best way to contact me is through [email](mailto:nn289@cornell.edu).
