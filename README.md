@@ -5,7 +5,6 @@
 [![H-Index](https://img.shields.io/badge/Google%20Scholar-H--Index-blue?style=flat&logo=Google%20Scholar)](https://scholar.google.com/citations?user=0WHw-1MAAAAJ&hl=en)
 <img src="https://img.shields.io/badge/Focus-ClimateRisk-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-WaterSystems-brightgreen" />
-[![](https://visitcount.itsvg.in/api?id=nassernajibicom&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## Hi, I'm Nasser!
 
