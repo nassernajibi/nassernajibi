@@ -1,6 +1,5 @@
 # Welcome ~
 ![](https://komarev.com/ghpvc/?username=nassernajibi&color=orange&label=Profile+views)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nassernajibi) 
 ![githubbadge](https://img.shields.io/github/followers/nassernajibicom?style=social)
 ![githubbadge](https://img.shields.io/github/stars/nassernajibicom?style=social)
 [![ResearchGate](https://img.shields.io/badge/Research-Gate-sucess?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Nasser-Najibi) 
