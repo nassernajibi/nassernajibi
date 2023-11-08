@@ -1,5 +1,15 @@
 # Welcome ~
 ![](https://komarev.com/ghpvc/?username=nassernajibi&color=orange&label=Profile+views)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nassernajibi) 
+![githubbadge](https://img.shields.io/github/followers/nassernajibicom?style=social)
+![githubbadge](https://img.shields.io/github/stars/nassernajibicom?style=social)
+[![ResearchGate](https://img.shields.io/badge/Research-Gate-sucess?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Nasser-Najibi) 
+[![Citations](https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat&logo=Google%20Scholar)](https://scholar.google.com/citations?user=0WHw-1MAAAAJ&hl=en)
+[![H-Index](https://img.shields.io/badge/Google%20Scholar-H--Index-blue?style=flat&logo=Google%20Scholar)](https://scholar.google.com/citations?user=0WHw-1MAAAAJ&hl=en)
+<img src="https://img.shields.io/badge/Focus-ClimateRisk-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-WaterSystems-brightgreen" />
+[![](https://visitcount.itsvg.in/api?id=nassernajibicom&icon=0&color=1)](https://visitcount.itsvg.in)
+
 ## Hi, I'm Nasser!
 
 I'm a postdoctoral associate in the [Department of Biological and Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://www.cornell.edu/).
