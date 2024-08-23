@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Focus-ClimateRisk-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-WaterSystems-brightgreen" />
 
-## Hi, I'm Nasser!
+## Hi there!
 
 I'm a research associate in the [Department of Biological and Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://www.cornell.edu/).
 I work towards advancing our understanding of water systems by integrating physical processes and statistical computations of complex hydroclimate processes in a changing environment.
