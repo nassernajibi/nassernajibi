@@ -7,7 +7,7 @@
 
 ## Hi there!
 
-I'm a research associate in the [Department of Biological and Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://www.cornell.edu/).
+I'm a Research Associate in the [Department of Biological and Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://www.cornell.edu/).
 I work towards advancing our understanding of water systems by integrating physical processes and statistical computations of complex hydroclimate processes in a changing environment.
 
 Prior to this, I received my Ph.D. and M.Phil. degrees in Civil and Environmental Engineering from the Department of Civil Engineering of [Grove School of Engineering](https://www.ccny.cuny.edu/engineering) at [The City College of New York](https://www.ccny.cuny.edu/) of [The City University of New York](https://www.cuny.edu/) (New York, NY) in 2019 and 2017, respectively.
