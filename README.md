@@ -8,13 +8,12 @@
 ## Hi there!
 
 I'm an Assistant Professor in the [Department of Agricultural and Biological Engineering](https://abe.ufl.edu/) at the [University of Florida](https://www.ufl.edu/).
-I work on enhancing climate risk assessments and infrastructure resilience in built and environmental systems.
 
 Before joining UF, I was a Research Associate in the [Department of Biological and Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://www.cornell.edu/). Before this, I was a Postdoctoral Scholar at Cornell University and an ORISE Postdoctoral Fellow sponsored by the USACE Engineer Research and Development Center.
 
 I received my Ph.D. and M.Phil. degrees in Civil and Environmental Engineering from the Department of Civil Engineering of [Grove School of Engineering](https://www.ccny.cuny.edu/engineering) at [The City College of New York](https://www.ccny.cuny.edu/) of [The City University of New York](https://www.cuny.edu/) (New York, NY) in 2019 and 2017, respectively.
 
-I employ a combination of knowledge in physical processes, statistical models, computational statistics, and data-driven learning tools to advance our understanding of complex hydroclimate processes in a changing environment.
+I work on enhancing climate risk assessments and infrastructure resilience in built and environmental systems. I employ a combination of knowledge in physical processes, statistical models, computational statistics, and data-driven learning tools to advance our understanding of complex hydroclimate processes in a changing environment.
 
 I am passionate about [open science](https://nasa.github.io/Transform-to-Open-Science/) and facilitating adapting [FAIR](https://www.go-fair.org/fair-principles/) practices in conducting and publishing research studies.
 
