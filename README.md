@@ -7,8 +7,10 @@
 
 ## Hi there!
 
-I'm a Research Associate in the [Department of Biological and Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://www.cornell.edu/).
+I'm an Assistant Professor in the [Department of Agricultural and Biological Engineering](https://abe.ufl.edu/) at the [University of Florida](https://www.ufl.edu/).
 I work on enhancing climate risk assessments and infrastructure resilience in built and environmental systems.
+
+Before this, I was a Research Associate in the [Department of Biological and Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://www.cornell.edu/). Prior to this, I was a Postdoctoral Scholar at Cornell University and an ORISE Postdoctoral Fellow sponsored by the USACE Engineer Research and Development Center.
 
 I received my Ph.D. and M.Phil. degrees in Civil and Environmental Engineering from the Department of Civil Engineering of [Grove School of Engineering](https://www.ccny.cuny.edu/engineering) at [The City College of New York](https://www.ccny.cuny.edu/) of [The City University of New York](https://www.cuny.edu/) (New York, NY) in 2019 and 2017, respectively.
 
@@ -20,7 +22,8 @@ I am passionate about [open science](https://nasa.github.io/Transform-to-Open-Sc
 
 You can find me on the internet:
 
-* [Website](https://nassernajibi.com/)
+* [Website](https://abe.ufl.edu/people/faculty/nasser-najibi/)
+* [Homepage](https://nassernajibi.com/)
 * [Google Scholar](https://scholar.google.com/citations?user=0WHw-1MAAAAJ&hl=en)
 * [GitHub](https://github.com/nassernajibi)
 * [LinkedIn](https://www.linkedin.com/in/nassernajibi/)
@@ -28,4 +31,4 @@ You can find me on the internet:
 * [ResearchGate](https://www.researchgate.net/profile/Nasser-Najibi)
 * [X](https://twitter.com/NasserNajibi)
 
-#### 📫 How to reach me: The best way to contact me is through [email](mailto:nn289@cornell.edu).
+#### 📫 How to reach me: The best way to contact me is through [email](mailto:nnajibi@ufl.edu).
