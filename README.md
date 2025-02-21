@@ -7,7 +7,7 @@
 
 ## Hi there!
 
-I'm an Assistant Professor in the [Department of Agricultural and Biological Engineering](https://abe.ufl.edu/) at the [University of Florida](https://www.ufl.edu/). Please see more details about my [Climate Resilience Lab](https://nassernajibi.github.io/lab).
+I'm an Assistant Professor in the [Department of Agricultural and Biological Engineering](https://abe.ufl.edu/) at the [University of Florida](https://www.ufl.edu/). Please check out my [Climate Resilience Lab](https://nassernajibi.github.io/lab).
 
 Before joining UF, I was a Research Associate in the [Department of Biological and Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://www.cornell.edu/). Before this, I was a Postdoctoral Scholar at Cornell University and an ORISE Postdoctoral Fellow sponsored by the USACE Engineer Research and Development Center.
 
